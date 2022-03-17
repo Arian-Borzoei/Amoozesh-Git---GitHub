@@ -1,0 +1,29 @@
+================================================================================================
+
+* avalin kar baraye kar ba git sakht "repostori" hastesh 
+
+repostori == makhzan { baraye sakht az dastore => 
+    git init ( sakht makhzan khali )
+}
+
+================================================================================================
+
+================================================================================================
+
+* dar ghadame dovom bayad bbinim ke sharayete projamoon che joorie 
+
+be in manzoor az command { git status } estefade mikonim 
+
+================================================================================================
+
+================================================================================================
+
+* baad az fahmidan sharayete proje bayad oonoo too stage add konim 
+
+file ha be tore pishfarz varede git ( stage git ) nmishan ta age file haye proje ma eshkal dasht baraye dorost kardaneshoon dochare dardesar nashim
+
+baraye add kardan file ha dar stage az command { git add <file name> } estefade mikonim 
+
+age ham bekhaim tamam file haro yekja bebarim too stage az command { git add . } estefade mikonim 
+ 
+================================================================================================
