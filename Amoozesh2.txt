@@ -5,3 +5,10 @@ bayad az command { git rm --cached <Esm file> } baraye delet kardan oonha estefa
 agar ham bekhaim hame file haro delet konim az command { git rm --cached -r . } estefade mikonim
 
 ================================================================================================
+
+================================================================================================
+
+* momken ast shoma taghiri dar file hayetan be voojood biarin ama yadetan beravad ke oon taghir ha chi boodan 
+baraye fahmidan inke taghirat be vojood amade dar proje ma chi boode az command { git diff } estefade mikonim
+
+================================================================================================
