@@ -27,3 +27,19 @@ baraye add kardan file ha dar stage az command { git add <file name> } estefade 
 age ham bekhaim tamam file haro yekja bebarim too stage az command { git add . } estefade mikonim 
  
 ================================================================================================
+
+================================================================================================
+
+* dar ghadame baadi niaze ke ma file haye proje ro be repostori gitemoon bebarim 
+
+baraye in kar az command { git commit -m "Har Esmi (Tarjihan Be Zamane Hal)" }
+
+================================================================================================
+
+================================================================================================
+
+* agar ma baad az bordan file hamoon too git stage ya repostori file hamoon niaz daran ta dar git update beshan
+
+be hamin dalil ma az command { git commit -a -m "Ttile Update (Bazam Esm Delbekhahe)" } estefade mikonim
+
+================================================================================================
