@@ -24,7 +24,7 @@ file ha be tore pishfarz varede git ( stage git ) nmishan ta age file haye proje
 
 baraye add kardan file ha dar stage az command { git add <file name> } estefade mikonim 
 
-age ham bekhaim tamam file haro yekja bebarim too stage az command { git add . } estefade mikonim 
+age ham bekhaim tamam file haro yekja bebarim too stage az command { git add <Esm file> , git add . } estefade mikonim 
  
 ================================================================================================
 

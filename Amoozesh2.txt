@@ -1,6 +1,7 @@
 ================================================================================================
 
 * dar mavaghe i ke ma be eshtebah filei ro vared git stage khodemoon mikonim 
-bayad az command { git rm --cached <Esm file> } 
+bayad az command { git rm --cached <Esm file> } baraye delet kardan oonha estefade konim
+agar ham bekhaim hame file haro delet konim az command { git rm --cached -r . } estefade mikonim
 
 ================================================================================================
