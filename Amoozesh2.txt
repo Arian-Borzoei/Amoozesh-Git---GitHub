@@ -16,5 +16,11 @@ baraye fahmidan inke taghirat be vojood amade dar proje ma chi boode az command 
 ================================================================================================
 
 * baraye didan history va barkhi az etelaate gitemoon mitoonim az command { git log } estefade konim
+nemoone command haye dige ba karaiishoon { 
+    git log --oneline => namayesh dadan esme commit,
+    git log -<Har Adadi> --oneline => be tedaade adade vared shode esme commit haro neshoon mide,
+    git log -p => namayesh history ba bishtarin moshakhasat,
+    git log --stat => namayesh karhaye etefagh oftade be soorate Adadi
+}
 
 ================================================================================================
