@@ -1,3 +1,6 @@
 ================================================================================================
 
+* dar mavaghe i ke ma be eshtebah filei ro vared git stage khodemoon mikonim 
+bayad az command { git rm --cached <Esm file> } 
+
 ================================================================================================
