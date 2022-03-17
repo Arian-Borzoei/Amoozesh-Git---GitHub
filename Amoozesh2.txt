@@ -12,3 +12,9 @@ agar ham bekhaim hame file haro delet konim az command { git rm --cached -r . } 
 baraye fahmidan inke taghirat be vojood amade dar proje ma chi boode az command { git diff } estefade mikonim
 
 ================================================================================================
+
+================================================================================================
+
+* baraye didan history va barkhi az etelaate gitemoon mitoonim az command { git log } estefade konim
+
+================================================================================================
