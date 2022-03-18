@@ -12,3 +12,10 @@ ya Az command { git checkout -- . } Baraye Tamami File Ha Estefade Mikonim
 az command { git reset HEAD <Esm File> } va ya az command { git reset HEAD . } Estefade konid
 
 ================================================================================================
+
+================================================================================================
+
+* git be ma in emkan ro mide ke betoonim ba estefade az esm log ha be oon ha bargardim 
+baraye in kar ma aval bayad log begirim 
+
+================================================================================================
