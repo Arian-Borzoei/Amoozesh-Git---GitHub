@@ -1,6 +1,13 @@
 ================================================================================================
 
 * momken ast dar baazi mavared saat ha code zadim ama mifahmim ke projamoon ghable in code ha kheili behtar boode va be tore mesal
-bugi nadashte va git be ma in komak ro mikone ke be oon halate 1 saat ghabl bargardim va in kar ba command { git checkout } soorat migire
+bugi nadashte va git be ma in komak ro mikone ke be oon halate 1 saat ghabl bargardim va in kar ba command { git checkout -- <Esm File> } soorat migire
+ya Az command { git checkout -- . } Baraye Tamami File Ha Estefade Mikonim
+
+================================================================================================
+
+================================================================================================
+
+
 
 ================================================================================================
