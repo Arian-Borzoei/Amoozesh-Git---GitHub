@@ -8,6 +8,7 @@ ya Az command { git checkout -- . } Baraye Tamami File Ha Estefade Mikonim
 
 ================================================================================================
 
-
+* dar baazi mavared ham shoma mikhayd file ra ke stage kardin az stage kharej konid be hamin dalil shoma bayad 
+az command { git reset HEAD <Esm File> } va ya az command { git reset HEAD . } Estefade konid
 
 ================================================================================================
