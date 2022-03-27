@@ -16,3 +16,13 @@ baraye didan branch hamoon az command { git branch -a } estefade mikonim
 baad az didan esm branch ha baraye switch kardan beineshoon az command { git checkout <Esm branch> } estefade mikonim
 
 ================================================================================================
+
+================================================================================================
+
+* momken ast ma yek branchi ro add karde bashim va dige bedardemoon nakhore ya be tore eshtebah sakhte shode 
+baraye delet kardanesh aval bayad chack konim ke branch activemoon oon branch nabashe baraye in kar az command { git branch -a } estefade mikonim
+vaghti dakhekl cmd in command ro vared mikonim branch activemoon dar khorooji be rang digari dar mi aiad
+
+baad az inke motmaen shodim branchi ke mikhaim delet konim branch activemoon nist az command { git branch -d <Esm branch> } baraye delet kardanesh estefade mikonim
+
+================================================================================================
