@@ -4,6 +4,15 @@
 baraye inke v1 va v2 e projamoon ro dar kenar ham dashte bashim bayad dar git yek shakheye jadidi dorost konim (har makhzan ke dar proje ma hast yek shakheye asli be name master dare)
 ya dar mavarede digar yek proje be soorate teami gharar hast pish bere be tore mesal dar yek site yek fardi header fardi digar footer va har kasi kare marboote be khodesho anjam mide
 
-dar kol baraye sakhte branch(shakhe) jadid bayad az command { git branch <name delkhah> }
+dar kol baraye sakhte branch(shakhe) jadid bayad az command { git branch <name delkhah> } estefade mikonim
+
+================================================================================================
+
+================================================================================================
+
+* baad az sakht branch haye mokhtalef niaz darim ke be branch haye mokhtalef switch konim baraye in kar aval bayad esm branch hamoon ro bbinim
+baraye didan branch hamoon az command { git branch -a } estefade mikonim 
+
+baad az didan esm branch ha baraye switch kardan beineshoon az command { git checkout <Esm branch> } estefade mikonim
 
 ================================================================================================
