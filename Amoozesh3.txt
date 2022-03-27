@@ -16,6 +16,7 @@ az command { git reset HEAD <Esm File> } va ya az command { git reset HEAD . } E
 ================================================================================================
 
 * git be ma in emkan ro mide ke betoonim ba estefade az esm log ha be oon ha bargardim 
-baraye in kar ma aval bayad log begirim 
+baraye in kar ma aval bayad log begirim baad az log grftan az command { git reset <id oon log> } estefade mikonim
+dar mavaghei ke file ezafe kardim ke nmikhastim va ya file ra be eshtebah delet kardim az command { git rese --hard <id oon log> } estefade mikonim
 
 ================================================================================================
