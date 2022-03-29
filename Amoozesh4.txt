@@ -26,3 +26,9 @@ vaghti dakhekl cmd in command ro vared mikonim branch activemoon dar khorooji be
 baad az inke motmaen shodim branchi ke mikhaim delet konim branch activemoon nist az command { git branch -d <Esm branch> } baraye delet kardanesh estefade mikonim
 
 ================================================================================================
+
+================================================================================================
+
+* git be ma in emkan ro mide ke ba estefade az command { git checkout -b <name delkhah> } yek branch jadid dorost konim va hamoon moghe switch konim behesh
+
+================================================================================================
