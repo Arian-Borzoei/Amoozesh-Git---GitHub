@@ -14,4 +14,7 @@ baraye in kar dar file git ignore poshte oon esm alamat tajob gharar midim be to
 ma mitoonim baraye ignore kardane yek pasvand az * estefade konim be tore mesal dar file git ignore vared mikonim
 *.txt in kar baes mishe file haye txt kolan ignore beshan
 
+agar ham file az ghabl dakhele proje boode va hala mikhaim oonoo ignore konim aval esmesh ro dakhel git ignore minevisim 
+sepas az command { git rm --cached -r . } va baad az oon az command { git add . } va dar nahayat az { git commit -m "message delkhah" } estefade mikonim
+
 ================================================================================================
