@@ -1,4 +1,4 @@
-# 📑 Amoozesh-Git---GitHub
+# 📑 Amoozesh Git Va GitHub
 
 # 💻 This File Authed By [AяιαηƁσяzσєι]
 
