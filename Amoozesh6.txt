@@ -7,4 +7,11 @@ baraye in kar aval az command { touch .gitignore } estefade konim ta file ignore
 sepas name file hayi ke mikhaim ignore shan ro dakhel oon file minevisim agar ham khastim folderi ignore she name oon folder minevisim va samte rastesh yek slash(/) gharar midahim
 be tore mesal < Ignore Folder/ >
 
+momken hast ma vaghti folderi ro ignore mikonim niaz dashte bashim yeki az file haye dakhele folder igonre nashe 
+baraye in kar dar file git ignore poshte oon esm alamat tajob gharar midim be tore mesal
+!Ignore.txt
+
+ma mitoonim baraye ignore kardane yek pasvand az * estefade konim be tore mesal dar file git ignore vared mikonim
+*.txt in kar baes mishe file haye txt kolan ignore beshan
+
 ================================================================================================
