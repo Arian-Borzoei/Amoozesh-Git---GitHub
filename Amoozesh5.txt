@@ -1,5 +1,14 @@
 ================================================================================================
 
-*
+* dar baazi mavaghe ma yek taghirati ro too yeki az branch haye khodemoon ijad mikonim 
+ama felan ghasd commit kardan oon haro nadarim dar in lahze agar ma be branch dige ei switch konim taghirat ham be oon branch montaghel mishavand 
+baraye inke in etefagh naiofte khode git be ma in emkan ro mide ke ba command { git stash } taghiratemoon ro dar jaii be name stash be tore movaghat zakhire konim
+
+================================================================================================
+
+================================================================================================
+
+* bbad az stash kardan ma niaz darim bebinim che chiz hayii ro satsh kardim va file haye stash shode ma chi hastan 
+baraye in kar az command { git stash list } estefade mikonim
 
 ================================================================================================
