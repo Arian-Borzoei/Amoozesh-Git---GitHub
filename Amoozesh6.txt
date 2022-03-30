@@ -1,0 +1,9 @@
+================================================================================================
+
+* dar baazi mavaghe ma dar proje hamoon file ha va ya folder haii ro darim ke nmikhaim git rooye oonha kari anjam bede 
+yaani na dakhel repostorimoon bashe na niaz dashte bashim stage , commit , ..... konim oon file haro 
+
+baraye in kar aval az command { touch .gitignore } estefade konim ta file ignore baramoon sakhte beshe
+bayad az command { git  } estefade konim ta git oon file haro nadide begire
+
+================================================================================================
