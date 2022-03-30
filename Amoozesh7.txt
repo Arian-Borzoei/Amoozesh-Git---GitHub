@@ -20,5 +20,6 @@ command { git remote add <esm delkhah> <https key> } ro vared mikonid
 ================================================================================================
 
 * dar marhale baad shoma az command { git push -u <esmi ke dar remote vared kardid> <esm branchi ke mikhaid upload konid> } estefade mikonid 
+agar baad az upload proje bar rooye github projaro taghir dadid az command { git push } estefade konid ta commit haye jadid be github ezafe beshan
 
 ================================================================================================
