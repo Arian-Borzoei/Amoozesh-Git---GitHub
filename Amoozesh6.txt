@@ -4,6 +4,7 @@
 yaani na dakhel repostorimoon bashe na niaz dashte bashim stage , commit , ..... konim oon file haro 
 
 baraye in kar aval az command { touch .gitignore } estefade konim ta file ignore baramoon sakhte beshe
-bayad az command { git  } estefade konim ta git oon file haro nadide begire
+sepas name file hayi ke mikhaim ignore shan ro dakhel oon file minevisim agar ham khastim folderi ignore she name oon folder minevisim va samte rastesh yek slash(/) gharar midahim
+be tore mesal < Ignore Folder/ >
 
 ================================================================================================
