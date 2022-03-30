@@ -29,4 +29,7 @@ agar baad az upload proje bar rooye github projaro taghir dadid az command { git
 * momken ast bekhaim file haro az github bar rooye systeme khodemoon download konim baraye in kar 
 bayad az command { git pull <esm remote> <esm branch> } estefade konim
 
+agar ham bekhaim file haro rooye system digari berezim https link oon repostori ro copy mikonim dar cmd 
+command { git clone <https link> <esm baraye folder(mishe chizi ham nanevesht)> } ra vared mikonim
+
 ================================================================================================
