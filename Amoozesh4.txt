@@ -32,3 +32,11 @@ baad az inke motmaen shodim branchi ke mikhaim delet konim branch activemoon nis
 * git be ma in emkan ro mide ke ba estefade az command { git checkout -b <name delkhah> } yek branch jadid dorost konim va hamoon moghe switch konim behesh
 
 ================================================================================================
+
+================================================================================================
+
+* baad az inke noskhe jadid proje ro tose dadim bayad biaim oon haro be noskhe asli ezafe konim
+(Ghabl Az Inkar Bayad Motmaen Shim Ke oon branch update ro commit kardim va baad az oon be branch asli raftim)
+baraye in kar bayad az command { git merge <Esm Branch Update> } estefade konim
+
+================================================================================================
