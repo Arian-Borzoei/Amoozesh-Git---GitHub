@@ -33,3 +33,25 @@ agar ham bekhaim file haro rooye system digari berezim https link oon repostori 
 command { git clone <https link> <esm baraye folder(mishe chizi ham nanevesht)> } ra vared mikonim
 
 ================================================================================================
+
+================================================================================================
+
+* github be ma in ghabeliat ro mide ke dar proje haye digaran hamkari konim va ya digaran be ma dar projamoon komak konan
+
+baraye hamkari dar proje digaran aval bayad repostori fard morede nazar beshim baad az oon rooye fork ke dar safhe repostori fard gharar dare click mikonim
+baad az oon proje fard ro az tarigh link khodemoon clone mikonim 
+baad az oon ma shoroo be tose proje fard mikonim va be soorate adi add va commit mikonim 
+sepas baraye remote kardan bayad ba link khodemoon remote konim proje ro va yek esmi baraye remote mizarim ke faramoosh nakonim
+dar marhale baad kar haye push kardan va.... ro anjam midim
+
+hala nobat mirese be darkhast dadan be sahebe proje baraye merge kardan proje ha
+dar repostori khodemoon ke az proje fard morede nazar sakhtim gozine pull request ro mizanim
+tanzimate marboote ra anjam midim
+
+hala agar kasi be ma puul request dad bayad chikar konim 
+dar ghadame aval varede repostorimoon mishim gozine pull request ro entekhab mikonim va dar inja agar kasi be ma pull request dade bashe moshakhas mishe
+va ma mitoonim oono baresi konim
+baad az inke baresi kardim agar khoshemoon biad az taghirat 
+dakhel pull request fard mishim va gozine merge pull request ro moshahede mikonim
+
+================================================================================================
