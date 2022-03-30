@@ -1,0 +1,24 @@
+================================================================================================
+
+-------------------------------------------- GitHub --------------------------------------------
+
+================================================================================================
+
+
+
+
+================================================================================================
+
+* baad az etmame proje vaght in mishe ke proje ro rooye github upload konim 
+baraye in kar aval bayad too github account besazim 
+baad az oon varede folder projamoon mishim va cmd ro baz mikonim 
+dakhel github shoma yek repostori dorost mikonid va https url oon ro copy mikonid baad dar cmd 
+command { git remote add <esm delkhah> <https key> } ro vared mikonid
+
+================================================================================================
+
+================================================================================================
+
+* dar marhale baad shoma az command { git push -u <esmi ke dar remote vared kardid> <esm branchi ke mikhaid upload konid> } estefade mikonid 
+
+================================================================================================
