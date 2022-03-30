@@ -8,7 +8,31 @@ baraye inke in etefagh naiofte khode git be ma in emkan ro mide ke ba command { 
 
 ================================================================================================
 
-* bbad az stash kardan ma niaz darim bebinim che chiz hayii ro satsh kardim va file haye stash shode ma chi hastan 
+* baad az stash kardan ma niaz darim bebinim che chiz hayii ro satsh kardim va file haye stash shode ma chi hastan 
 baraye in kar az command { git stash list } estefade mikonim
+
+================================================================================================
+
+================================================================================================
+
+* baad az in ke bein branch hamoon switch kardim agar bekhahim stashemoon ro save konim bayad az command { git stash save "message delkhah" }
+
+================================================================================================
+
+================================================================================================
+
+* baad az in kar ha ma be niaz darim  ke taghirate stashemoon ro rooye proje emal konim 
+baraye in kar aval az command { git stash show <code stash morede nazar> } estefade mikonim ta taghirate be voojood amade dar oon ro bebinim
+sepas az command { git stash apply <code stash morede nazar> } estefade mikonim ta taghirat stash rooye proje emal beshe
+ba estefade az apply stash hamchenan dar stash list mimoone vali age ma az command { git stash pop <code stash morede nazar> } estefade konim
+hamzaman ham taghirat emal mishe va ham stashemoon az stash list delet mishe
+
+================================================================================================
+
+================================================================================================
+
+* baad az inke karhamoon ba stash tamoom shod vaghte in mirese ke file hamoon ro az stash delet konim
+(ghab az delet kardan stash list mikonim ta code oon stash ro bedast biarim)
+baraye in kar bayad az command { git stash drop <code stash morede nazar> } estefade mikonim
 
 ================================================================================================
